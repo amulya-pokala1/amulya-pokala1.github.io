@@ -42,7 +42,7 @@
   <a href="https://github.com/amulya-pokala1/License-Parser-Advanced-Java-">Advanced Java Assignment</a><br>
   <a href="https://github.com/amulya-pokala1/MultiThreading-Assignment">Multi Threading Assignment</a><br></p>
 </div>
-  
+  <div class="wrapper">
   <footer>
 	<div class="footerLinks">
 		<ul>
@@ -51,7 +51,7 @@
   			<li><a href="https://www.quora.com/profile/Amulya-Pokala">Quora</a></li>
 		</ul>
 	</div>
-	
+	  </div>
 </footer>
 
 
