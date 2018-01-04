@@ -13,7 +13,12 @@
   <p><a href="https://github.com/amulya-pokala1/DBMS-Assignment">DBMS Assignment</a><br>
   <a href="https://github.com/amulya-pokala1/Telephone-Implementation-Core-Java-">Core Java Assignment</a><br>
   <a href="https://github.com/amulya-pokala1/License-Parser-Advanced-Java-">Advanced Java Assignment</a><br>
-  <a href="https://github.com/amulya-pokala1/MultiThreading-Assignment">Multi Threading Assignment</a><br></p>
+  <a href="https://github.com/amulya-pokala1/MultiThreading-Assignment">Multi Threading Assignment</a><br>
+  <a href="https://github.com/amulya-pokala1/SOAP-WebService">SOAP Assignment</a><br>
+  <a href="https://github.com/amulya-pokala1/Email-Validation-JSP-and-Servlet-">Email Validation using JSP and Servlet</a><br>
+  <a href="https://github.com/amulya-pokala1/Registration-Servlet">Registration using servlets</a><br>
+  
+  
 </div>
   
 
