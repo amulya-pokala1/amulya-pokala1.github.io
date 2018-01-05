@@ -18,6 +18,7 @@
   <a href="https://github.com/amulya-pokala1/Email-Validation-JSP-and-Servlet-">Email Validation using JSP and Servlet</a><br>
   <a href="https://github.com/amulya-pokala1/Registration-Servlet">Registration using servlets</a><br>
   <a href="https://github.com/amulya-pokala1/Design-Principles-Assignment">Design Principles Assignment</a><br>
+    <a href="https://github.com/amulya-pokala1/Maven-Parent-and-Child-Dependency">Maven Assignment</a><br>
   </p>
   
 </div>
