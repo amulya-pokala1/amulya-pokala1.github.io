@@ -19,7 +19,7 @@
   <a href="https://github.com/amulya-pokala1/Registration-Servlet">Registration using servlets</a><br>
   <a href="https://github.com/amulya-pokala1/Design-Principles-Assignment">Design Principles Assignment</a><br>
     <a href="https://github.com/amulya-pokala1/Maven-Parent-and-Child-Dependency">Maven Assignment</a><br>
-    <a href=" https://github.com/amulya-pokala1/REST-Assignment">REST Assignment</a><br>
+    <a href="https://github.com/amulya-pokala1/REST-Assignment">REST Assignment</a><br>
    
   </p>
   
