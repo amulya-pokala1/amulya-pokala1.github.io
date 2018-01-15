@@ -25,7 +25,8 @@
      <a href="https://github.com/amulya-pokala1/Spring-Assignment"> Spring Assignment </a><br>
      <a href="https://github.com/amulya-pokala1/Code-Quality-Assignment"> Code Quality Assignment </a><br>
     <a href="https://github.com/amulya-pokala1/smartPPTViewer"> Real Time Web App Development Assignment </a><br>
-   
+    <a href="https://github.com/amulya-pokala1/HTML5-Assignment"> HTML5 Assignment </a><br>
+  
   </p>
   
 </div>
